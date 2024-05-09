@@ -1,0 +1,4 @@
+copy R6 17
+push multiply R6 13
+pop R1
+halt

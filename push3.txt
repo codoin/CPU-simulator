@@ -1,0 +1,4 @@
+copy R1 5
+copy R2 53
+push subtract R0 R1 R2
+halt

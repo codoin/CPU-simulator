@@ -1,0 +1,3 @@
+copy R6 5
+push left shift R6 1
+halt

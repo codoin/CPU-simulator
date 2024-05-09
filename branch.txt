@@ -1,0 +1,6 @@
+copy R1 7
+copy R2 30
+branch ge R6 R2 R1 76
+branch lt R2 R1 12
+jump R1 54
+halt

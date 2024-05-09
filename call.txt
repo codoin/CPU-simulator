@@ -1,0 +1,5 @@
+call 12
+copy R1 1
+copy R2 1
+call eq R1 R2 41
+halt

@@ -1,0 +1,6 @@
+copy R1 5
+copy R2 23
+copy R6 8
+peek R1 R2 R1
+peek R5 R6 4
+halt

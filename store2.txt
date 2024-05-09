@@ -1,0 +1,4 @@
+copy R1 5
+copy R6 8
+store R1 R6 4
+halt

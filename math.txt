@@ -1,0 +1,6 @@
+copy R1 15
+copy R2 45
+copy R3 5
+math add R3 R1 R2
+math multiply R1 R3
+halt

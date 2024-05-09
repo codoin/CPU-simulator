@@ -1,0 +1,5 @@
+copy R1 24
+copy R2 1
+copy R3 32
+call neq R2 R1 R3 12
+halt
